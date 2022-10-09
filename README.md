@@ -1,6 +1,9 @@
 # find_github_user
 With this application, you can find a user and view his repositories.
 
+<h2> 📺  Short video of this project:  </h2>
+<a href="https://www.youtube.com/watch?v=XnjuUFSVwr4" target="_blank"><img src="https://user-images.githubusercontent.com/91973134/194775517-6798cf71-5508-4ab9-b7a4-1bbc0629643c.jpg" alt="IMAGE ALT TEXT HERE" width="190" height="110" border="10" /></a>
+
 
 
 ![gh_u1](https://user-images.githubusercontent.com/91973134/147271028-d860c76c-a7e2-4114-8096-b6022c2468d5.jpg)
